@@ -14,33 +14,39 @@ To create a 3D model from given orthographic projection.
 1.	Open new file and then select sketch icon.
 2.	Select the plane for sketching. 
 3.	Use sketching features (line, circle, arc, rectangle, polygon, etc.,) to draw the given sketch.
+<img width="587" height="1280" alt="image" src="https://github.com/user-attachments/assets/d4394b36-2aab-42cc-8fce-4aaaee0ae6af" />
 
-![image](https://user-images.githubusercontent.com/113594316/198551199-8d9b7f6c-6ea7-4d59-8e8c-173f2b5e088f.png)
+
 
 4.	Use sketch modifying features (cut, trim, mirror, move, etc.,) to edit the sketch.
 
-![image](https://user-images.githubusercontent.com/113594316/198551220-c7aa6694-4427-48e2-9d91-cd7e9615d651.png)
+<img width="587" height="1280" alt="image" src="https://github.com/user-attachments/assets/0cbb1d56-d9a1-4215-ad1c-9c22f0eebe67" />
+
 
 5.	Use inspect feature to measure the dimensions of sketch.
+<img width="1158" height="883" alt="image" src="https://github.com/user-attachments/assets/e883cafa-9ee7-47ec-aae8-669fdef32f06" />
 
-![image](https://user-images.githubusercontent.com/113594316/198551270-45875855-43a7-4471-af35-bd10cd9dd153.png)
+
 
 6.	After finishing the sketch use finish sketch option to finalize the sketch.
+<img width="684" height="1279" alt="image" src="https://github.com/user-attachments/assets/3c4f8053-cb19-41ce-a33a-bd0a25eae42f" />
 
-![image](https://user-images.githubusercontent.com/113594316/198551309-8d7ac6c8-6740-479f-8186-195c89823fda.png)
+
 
 7.	Use extrude option to convert 3D model from sketch
+<img width="945" height="1280" alt="image" src="https://github.com/user-attachments/assets/6d531ca9-ab9b-4d55-843f-b19f1405fe44" />
 
-![image](https://user-images.githubusercontent.com/113594316/198551340-fe1f3b48-df79-44ef-a4ae-ff1cd22503ea.png)
+
 
 8.	After finishing the model convert to drawing sheet per  ISO standard.
+<img width="734" height="1600" alt="image" src="https://github.com/user-attachments/assets/a0b6aa96-3311-4ee1-9ace-212a33aa35dc" />
 
-![image](https://user-images.githubusercontent.com/113594316/198551370-54509915-ec69-4862-9c17-156d61a83b11.png)
 
 ## INPUT:
 ![image](https://user-images.githubusercontent.com/113594316/198551872-276f8b80-bea8-4d4a-b2e8-bfdcd1e9d3cc.png)
 
 ## OUTPUT:
+<img width="999" height="705" alt="{0E843A76-DA17-40E7-A5E2-8E8BA4D4F4AC}" src="https://github.com/user-attachments/assets/5c9701f1-5962-4817-b955-fb32d3ff851f" />
 
 ## RESULT:
 Thus, 3D model is created from orthographic projection.
